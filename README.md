@@ -21,6 +21,7 @@ As a class 12 student, my current focus is on mastering my subjects, particularl
 Skills
 
     Programming Languages: Python
+    DataBase: MySQL
     Data Analysis: Basic knowledge of data handling and analysis using relevant tools
     Software Tools: Familiar with Git, GitHub, and other collaborative platforms
 
